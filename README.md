@@ -1,1 +1,1 @@
-# This is the business page for _________
+# This is our business website. This is still all a work in progress
