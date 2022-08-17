@@ -1,1 +1,1 @@
-# This is our business website. This is still all a work in progress
+# This is our business website. This is still all a big work in progress.
