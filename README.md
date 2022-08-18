@@ -13,4 +13,4 @@
  <button id="submit">Buy</button>
 </a>
 </center>
-<link rel="CSSstuf" href="CSSstuf.css">
+<link rel="CSSstuff" href="CSSstuff.css">
