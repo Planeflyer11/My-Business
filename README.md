@@ -1,24 +1,22 @@
-# Welcome to Garbage Mouse Co.
+<html>
+<center>
+<h1>
+ Welcome to Garbage Mouse Co.
+</h1>
+</center>
 
 ---
-<html>
 <center> 
-<body>
-  <h1>
-## Product prices $7 
-  </h1>
-  </body>
+  <h2>
+ Product prices $7 
+  </h2>
 </center>
 
 <center> 
-<body>
-  <h2>
-## Product name tape mouse 
-  </h2>
-  </body>
+  <h3>
+ Product name tape mouse 
+  </h3>
 </center>
-  <body>
     <button type="button">Click Me!</button>
-  </body>
   </html>
         
