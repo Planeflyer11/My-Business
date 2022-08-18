@@ -6,6 +6,7 @@
 </center>
 
 ---
+ 
 <center> 
   <h2>
  Product prices $7 
