@@ -18,7 +18,7 @@
 </center>
     
  <center>
- //Add paypal link here
+ <!Add paypal link here>
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
     <button>Click me</button>
 </a>
