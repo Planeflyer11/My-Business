@@ -1,13 +1,12 @@
 # Welcome to Garbage Mouse Co.
 
 ---
+</html>
+<center> ## Product prices $7 </center>
 
-##         Product prices $7
-
-##       Product name tape mouse
-<html>
+<center> ## Product name tape mouse </center>
   <body>
     <button type="button">Click Me!</button>
-  </body>
+  </body>z
   </html>
         
