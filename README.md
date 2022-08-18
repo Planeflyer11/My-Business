@@ -4,8 +4,6 @@
  Welcome to Garbage Mouse Co.
 </h1>
 </center>
-
----
  
 <center> 
   <h2>
