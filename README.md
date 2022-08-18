@@ -18,7 +18,9 @@
 </center>
     
  <center>
- <!--Add paypal link here>
+ {::comment}
+ Add paypal link here
+ {:/comment}
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
     <button>Click me</button>
 </a>
