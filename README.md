@@ -1,7 +1,7 @@
 # Welcome to Garbage Mouse Co.
 
 ---
-</html>
+<html>
 <center> 
 <body>
   <h1>
