@@ -1,1 +1,5 @@
-# This is our business website. This is still all a big work in progress.
+# Welcome to Garbage Mouse Co.
+
+##Product prices $7
+
+##Product name tape mouse
