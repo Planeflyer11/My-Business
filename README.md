@@ -16,6 +16,11 @@
  Product name tape mouse 
   </h3>
 </center>
-    <button type="button">Click Me!</button>
+    
+ <center>
+  <a href="http://www.stackoverflow.com/">
+    <button>Click me</button>
+</a>
+ </center>
   </html>
         
