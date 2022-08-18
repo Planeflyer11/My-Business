@@ -7,17 +7,18 @@
  
 <center> 
   <h2>
- Product prices $7 
+  Tape mouse v2.0 
   </h2>
 </center>
 
 <center> 
   <h3>
- Product name tape mouse 
+ $7
   </h3>
 </center>
     
  <center>
+ //Add paypal link here
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
     <button>Click me</button>
 </a>
