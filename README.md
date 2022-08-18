@@ -1,6 +1,6 @@
 <center>
  
- <h1> Welcome to Garbage Mouse Co. </h2> 
+ <h1> Welcome to Garbage Mouse Co. </h1> 
  <h2> Tape mouse v2.0 </h2>
  <h3> $7 </h3>
  
